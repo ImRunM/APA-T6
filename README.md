@@ -1,6 +1,6 @@
 # Expresiones Regulares
 
-## Nom i cognoms
+## Nom i cognoms: Imelda Run Montes Martín
 
 ## Tratamiento de ficheros de notas
 
